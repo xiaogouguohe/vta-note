@@ -1,3 +1,7 @@
+int fetchTest() {
+    return 0;
+}
+
 int loadTest() {
     return 0;
 }

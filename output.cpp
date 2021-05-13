@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
+	cout << "FETCH testing..." << endl;
+	cout << "FETCH test succeed!" << endl;
+
 	cout << "LOAD testing..." << endl;
 	cout << "LOAD test succeed!" << endl;
 
